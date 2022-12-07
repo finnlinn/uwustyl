@@ -1,0 +1,21 @@
+{
+  "name": "uwustyl",
+  "displayName": "UwUstyl",
+  "description": "Just trying to make my vs code prettier",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dimmed but make it more feminime and girlbossy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Dimmed but make it more feminime and girlbossy-color-theme.json"
+      }
+    ]
+  }
+}
